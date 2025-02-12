@@ -1,0 +1,21 @@
+body {
+	background-color: AliceBlue;
+	font-family: Lucida Console;
+}
+
+h1, h2 {
+	font-family: Cursive, Lucida Handwriting;
+	text-align: center;
+}
+
+#link_info {
+	font-size: 30px;
+}
+
+.header {
+	color: Coral;
+}
+
+.cat {
+	font-style: italic;
+}
